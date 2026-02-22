@@ -53,3 +53,4 @@ app.use("/api/notifications", notificationRoutes);
 }); */
 
 connectMongoDB();
+export default app;
