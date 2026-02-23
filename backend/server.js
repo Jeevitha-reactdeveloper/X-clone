@@ -24,6 +24,10 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 /* const __dirname = path.resolve();
  */
+
+app.get("/",(req,res) =>{
+    res.send("Welcome to X-clone")
+})
 app.use(express.json({ limit: "5mb" })); // to parse req.body
 // limit shouldn't be too high to prevent DOS and its default value is 100kb
 app.use(express.urlencoded({ extended: true })); // to parse form data(urlencoded)
