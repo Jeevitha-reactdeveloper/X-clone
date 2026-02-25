@@ -139,7 +139,7 @@ CLIENT_URL=
 ![Signup Page](./screenshots/XcloneSignup.png)
 
 ### 🏠 Home Feed
-![Home Feed(screenshots/Xclone.PNG)
+![Signup Page](./screenshots/Xclone.png)
 
 ### 👤 Profile Page
 ![Profile Page](./screenshots/Xcloneprofilepage.png)
