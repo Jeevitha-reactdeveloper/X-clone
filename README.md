@@ -133,16 +133,16 @@ CLIENT_URL=
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](./screenshots/Xclonelogin.png)
+![Login Page](./screenshots/login.png)
 
 ### 📝 Signup Page
-![Signup Page](./screenshots/XcloneSignup.png)
+![Signup Page](./screenshots/signup.png)
 
 ### 🏠 Home Feed
-![Signup Page](./screenshots/Xclone.png)
+![Signup Page](./screenshots/homepage.png)
 
 ### 👤 Profile Page
-![Profile Page](./screenshots/Xcloneprofilepage.png)
+![Profile Page](./screenshots/profilepage.png)
 
 ---
 
