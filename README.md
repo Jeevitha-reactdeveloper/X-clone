@@ -92,12 +92,19 @@ npm run server
 Create a `.env` file in backend:
 
 PORT = 
+
 MONGO_URI =
+
 JWT_SECRET=
+
 NODE_ENV=
+
 CLOUDINARY_API_KEY =
+
 CLOUDINARY_API_SECRET =
+
 CLOUDINARY_CLOUD_NAME =
+
 CLIENT_URL=
 
 ---
@@ -125,7 +132,17 @@ CLIENT_URL=
 
 ## 📸 Screenshots
 
-(Add screenshots in ./screenshots folder)
+### 🔐 Login Page
+![Login Page](./screenshots/Xclonelogin.png)
+
+### 📝 Signup Page
+![Signup Page](./screenshots/XcloneSignup.png)
+
+### 🏠 Home Feed
+![Home Feed](./screenshots/Xclone.png)
+
+### 👤 Profile Page
+![Profile Page](./screenshots/Xcloneprofilepage.png)
 
 ---
 
