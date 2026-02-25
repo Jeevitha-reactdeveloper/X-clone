@@ -10,6 +10,7 @@ Built using the MERN stack with secure authentication and cloud-based image stor
 ## 🔗 Live Demo
 
 Frontend: https://x-clone-frontend-chi.vercel.app/ 
+
 Backend API: https://x-clone-snowy-one.vercel.app/
 
 ---
@@ -68,7 +69,7 @@ Backend API: https://x-clone-snowy-one.vercel.app/
 
 ### 1️⃣ Clone the repository
 
-git clone https 
+git clone https://github.com/Jeevitha-reactdeveloper/X-clone.git
 
 cd x-clone
 
